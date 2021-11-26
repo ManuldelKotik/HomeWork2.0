@@ -7,3 +7,5 @@ while True:
         break
     else:
         print('Ошибка')
+
+#какой-то комментарий

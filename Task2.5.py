@@ -11,3 +11,5 @@ for n in my_list:
 
 my_list.insert(i, float(new_number))
 print(my_list)
+
+#какой-то комментарий

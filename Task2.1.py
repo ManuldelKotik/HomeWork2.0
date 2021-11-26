@@ -5,3 +5,5 @@ my_list = [(-1 + 0j), 1, 2.2, True, None, 'String', [3, 4],
 
 for i, item in enumerate(my_list, 1):
     print(f"{i} {item} - {type(item)}")
+
+#какой-то комментарий

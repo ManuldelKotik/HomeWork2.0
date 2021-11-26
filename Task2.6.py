@@ -17,3 +17,5 @@ while True:
     for key, value in analytics.items():
         print(f"{key[:25]:>30}: {value}")
     print('*' * 30)
+
+#какой-то комментарий
